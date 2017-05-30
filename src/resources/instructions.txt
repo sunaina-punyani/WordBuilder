@@ -1,0 +1,43 @@
+                                                             WORD BUILDER
+                                                              Game Rules
+                                                            For 2 Players
+OBJECT : 
+                   In the Word Builder game, players are to form words using the 26 alphabets .
+                   There are in total 5 rounds in the game.
+                   Each player competes to win maximum rounds in order to win the game.
+GAMEPLAY : 
+1. The two players of the game Player 1 and Player 2 are assigned characters i.e. BOB and WENDY respectively.
+    (Hereby in the instructions Player 1 and Player 2 will be referred to as BOB and Wendy respectively)
+2. The first turn in the game is of BOB and the second turn is of WENDY.
+3. As a round begins, BOB has to enter an alphabet with which he/she can form a valid word.
+    (Check the note at the end of the instructions)
+    Then WENDY has to enter the second alphabet corresponding to the first alphabet entered by BOB to make a vaild word.
+4. After entering a word the turns changes between BOB and WENDY.
+5. If a player, either BOB or WENDY, is unable to enter next alphabet i.e. if he/she is not able to continue the entered word, then the player,
+    either BOB or WENDY, can press the "PASS" button to skip his/her turn and the next player gets the chance.
+6. END OF A ROUND :
+                       A round ends in the following situations : 
+                       i. If both the players are unable to continue the word and both of them press the "PASS" button.
+                      ii. If according to the dictionary a word cannot be further continued.
+                     iii. 
+7. END OF THE GAME : 
+                       After completion of 5 rounds, the game ends.
+                       The game can be terminated in between by pressing the "EXIT" button.
+SCORING : 
+1. Scores are given on the basis of number of rounds won by a particular player.
+2. One point is awarded when one round is won.
+3. The scores are given following these cases : 
+    Case 1 : When BOB enters the last alphabet and there is no more possible word, then WENDY wins the round.
+    Case 2 : When WENDY enters the last alphabet and there is no more possible word, then BOB wins the round.
+    Case 3 : When BOB enters the last alphabet and
+                   Case i : On the next turn WENDY enters an alphabet that leads to formation of a correct word according to the dictionary, then the game
+                                will continue.
+                  Case ii : On the next turn WENDY is unable to think of the word and presses the "PASS" button then the turn passes to BOB. Now if
+                                 Case a : BOB also presses the "PASS" button, then WENDY wins the respective round.
+                                 Case b : BOB enters the alphabet that leads to formation of a correct word according to the dictionary, then BOB wins the
+                                                respective round.
+HOW TO WIN : 
+        The player, either BOB or WENDY, with the highest number of rounds won wins the game.
+
+NOTE : 
+        Words with special characters like '@' , '$' , '%' , '&', etc. , are not allowed.                                            
